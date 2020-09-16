@@ -1,4 +1,7 @@
 {
+    "name": "gyaaniguy/phpunit-basic",
+    "type": "library",
+    "description": "Basic template composer phpunit",
     "authors": [
         {
             "name": "Nikhil",
