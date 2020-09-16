@@ -1,0 +1,1 @@
+Basic starter template for working with PHPUNIT, with functional composer autoloading, for my future small scripts. 
