@@ -1,11 +1,11 @@
-#Description
+# Description
 Starter PHP lib template. Includes:  
 Codeception. PHPUNIT was removed, because annotation in comments are an abomination.
 Functional composer Autoloading,  
   
 For my future small scripts. 
 
-#CodeCeption
+# CodeCeption
 
 - Initial Config  
 `vendor/bin/codecept.bat bootstrap` 
@@ -18,7 +18,7 @@ For my future small scripts.
 `vendor/bin/codecept.bat run unit` 
 
 
-#Using 
+# Using 
 Run Composer scripts:  
 `composer test run unit` instead of the usual 
 `vendor/bin/codecept.bat run unit`
