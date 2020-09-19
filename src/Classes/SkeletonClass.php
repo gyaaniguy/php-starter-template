@@ -6,12 +6,7 @@ namespace gyaani\guy\Classes;
 
 class SkeletonClass
 {
-    public function __construct()
-    {
-
-    }
-
-    function dsf()
+    public function aMethod()
     {
         return 1;
     }
